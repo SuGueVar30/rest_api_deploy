@@ -6,7 +6,6 @@ export class MovieController {
   static async getAll (req, res) {
     const { genre } = req.query
     const _movies = await MovieModel.getAll({ genre })
-    console.log('CONTROLADOR: ', _movies)
     return res.render('movies', { movies: _movies })
   }
 
