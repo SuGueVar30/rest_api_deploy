@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en-es">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Lista de Películas</title>
+		<!-- STYLES CSS-->
+		<%- include('partials/head.ejs') %>
+	</head>
+
+	<body>
+		<!-- MENU DE NAVEGACIÓN -->
+		<%- include('partials/navigation.ejs') %>
+
+		<div class="container-fluid container-principal">
+			<p class="h2 w-100 text-center p-3"> lista de películas </p>
+			<!-- CONTENIDO DE LA PÁGINA -->
+			<div class="position-relative d-flex flex-row flex-wrap align-items-start justify-content-start">
+				<%for (var i in movies){ %> <% let posActual=movies[i]; %>
+				<article class="card m-2 d-flex flex-direction-column align-items-center border border-black" style="width: 290px; height: 500px" data-id="<%= movies[i].id %>">
+					<div class="card-body">
+						<h5 class="card-title d-flex align-items-center justify-content-center text-center" style="width: 100%; height: 60px"><%= movies[i].title %></h5>
+						<img src="<%= movies[i].poster %>" alt="<%= movies[i].title %>" class="bd-placeholder-img card-img-top mb-auto" style="width: 100%; height: 300px" />
+						<p class="card-text h3 d-flex align-items-center justify-content-center text-center" style="width: 100%; height: 50px"><%= movies[i].year %></p>
+						<button class="btn btn-danger d-flex align-items-center justify-content-center" style="width: 100%; height: 50px">Eliminar</button>
+					</div>
+				</article>
+				<%}%>
+			</div>
+		</div>
+
+		<!-- FOOTER DE LA PÁGINA -->
+		<%- include('partials/footer.ejs') %>
+	</body>
+</html>
