@@ -12,8 +12,10 @@ export class MovieController {
 
   static async getById (req, res) {
     const { id } = req.params
-    const _movie = await MovieModel.getById({ id })
-    console.log(_movie.length)
+    const _movie = await MovieModel.getById({ id }).catch(() => {
+      return res.status(500).render('error', { message: '500 - Invalid ID.' })
+    })
+
     if (_movie.length === 0) return res.status(404).render('error', { message: '404 - Movie not found.' })
     return res.render('movies', { movies: _movie })
   }
