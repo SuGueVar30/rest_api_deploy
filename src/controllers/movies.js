@@ -12,9 +12,10 @@ export class MovieController {
 
   static async getById (req, res) {
     const { id } = req.params
-    const _movies = await MovieModel.getById({ id })
-    if (_movies.length === 0) return res.status(404).render('error', { message: '404 - Movie not found.' })
-    return res.render('movies', { movies: _movies })
+    const _movie = await MovieModel.getById({ id })
+    console.log(_movie.length)
+    if (_movie.length === 0) return res.status(404).render('error', { message: '404 - Movie not found.' })
+    return res.render('movies', { movies: _movie })
   }
 
   static async create (req, res) {

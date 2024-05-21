@@ -1,5 +1,5 @@
 {
     "editor.codeActionsOnSave": {},
     "liveServer.settings.AdvanceCustomBrowserCmdLine": "",
-    "editor.fontLigatures": false
+    "editor.fontLigatures": true
 }
