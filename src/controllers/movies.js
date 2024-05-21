@@ -1,11 +1,13 @@
-import { MovieModel } from '../models/localdb/movie.js'
+// import { MovieModel } from '../models/mysql/movies.js'
+import { MovieModel } from '../models/mysql/movie.js'
 import { validatedMovie, validatedPartialMovie } from '../schemas/moviesSchemas.js'
 
 export class MovieController {
   static async getAll (req, res) {
     const { genre } = req.query
-    const __movies = await MovieModel.getAll({ genre })
-    return res.render('movies', { movies: __movies })
+    const _movies = await MovieModel.getAll({ genre })
+    console.log('CONTROLADOR: ', _movies)
+    return res.render('movies', { movies: _movies })
   }
 
   static async getById (req, res) {
