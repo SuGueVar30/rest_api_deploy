@@ -2,7 +2,7 @@
 GET http://localhost:3000/movies 
 
 ### RECUPERAR PELICULA POR ID
-GET http://localhost:3000/movies/5ad1a235-0d9c-410a-b32b-220d91689a08
+GET http://localhost:3000/movies/eba69a27-1742-11ef-a566-046c59936623
 
 ### RECUPERAR PELICULA POR GENERO
 GET http://localhost:3000/movies?genre=drama
