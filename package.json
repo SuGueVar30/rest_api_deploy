@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "dev": "node --watch ./src/app.js",
-    "dev:01": "git status&& git add *&& git status&& git commit -m \"Commit_de_Prueba\"&& git push –u origin main",
+    "dev:01": "git status&& git add *&& git status&& git commit -m \"Commit_de_Prueba\"&& git push git push https://github.com/SuGueVar30/rest_api_deploy.git",
     "start": "node ./src/app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
