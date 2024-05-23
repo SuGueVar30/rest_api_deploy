@@ -17,7 +17,11 @@ const movieSchema = zd.object({
       }
     )
   ),
-  rate: zd.number().min(0).max(10).default(0)
+  rate: zd.number().min(0).max(10).default(0),
+  synopsis: zd.string({
+    invalid_type_error: 'Movie tittle must be a string',
+    required_error: 'Movie tittle is required'
+  })
 })
 
 export function validatedMovie (object) {

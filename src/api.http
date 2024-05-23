@@ -2,7 +2,7 @@
 GET http://localhost:3000/movies 
 
 ### RECUPERAR PELICULA POR ID
-GET http://localhost:3000/movies/eba69a27-1742-11ef-a566-046c59936623
+GET http://localhost:3000/movies/5da491f7-17c7-11ef-a566-046c59936623
 
 ### RECUPERAR PELICULA POR GENERO
 GET http://localhost:3000/movies?genre=drama
@@ -12,25 +12,30 @@ POST http://localhost:3000/movies
 Content-Type: application/json
 
 {
-  "title": "The Goodather",
-  "year": 1975,
-  "director": "Francis Ford Coppola",
-  "duration": 175,
-  "poster": "https://m.media-amazon.com/images/M/MV5BMTM2OTM3OTg1MF5BMl5BanBnXkFtZTcwMjg0OTkyMQ@@._V1_FMjpg_UX1000_.jpg",
-  "genre": [
-    "Crime",
-    "Drama"
-  ],
-  "rate": 7.7
+  "title": "El club de los cinco",
+  "director": "John Hughes",
+  "year": 1985,
+  "duration": 97,
+  "rate": 7.8,
+  "poster": "https://m.media-amazon.com/images/I/71eZ2tFAJTL._AC_SY679_.jpg",
+  "synopsis": "Cinco estudiantes de secundaria, todos con personalidades diferentes, se encuentran detenidos en la escuela un sábado por diversos motivos y deben enfrentarse a sí mismos y a sus compañeros de detención.",
+  "genre": ["Drama"]
 }
 
 ### ACTUALIZAR UNA PELICULA
-PATCH http://localhost:3000/movies/dcdd0fad-a94c-4810-8acc-5f108d3b18c3
+PATCH http://localhost:3000/movies/5da491f7-17c7-11ef-a566-046c59936623
 Content-Type: application/json
 
 {
-  "year": 2023
+  "title": "The Lord of the Rings: The Return of the King",
+  "director": "Peter Jackson",
+  "year": 2010,
+  "duration": 201,
+  "poster": "https://m.media-amazon.com/images/I/51Zz6qfHrzL._AC_.jpg",
+  "rate": 8.9,
+  "synopsis": "Gandalf and Aragorn lead the World of Men against Saurons army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+  "genre": ["Drama"]
 }
 
 ### ELIMINAR UNA PELICULA
-DELETE http://localhost:3000/movies/5ad1a235-0d9c-410a-b32b-220d91689a08
+DELETE http://localhost:3000/movies/7dbb2529-bc4f-4646-89de-488ec04256a6

@@ -1,0 +1,362 @@
+[
+    {
+        "title": "Cadena perpetua",
+        "director": "Frank Darabont",
+        "year": 1994,
+        "duration": 142,
+        "rate": 9.3,
+        "poster": "https://m.media-amazon.com/images/I/519NBNHX5BL._AC_.jpg",
+        "synopsis": "Durante varios years, dos convictos forman una amistad, buscando consuelo y, eventualmente, redención a través de la compasión básica."
+    },
+    {
+        "title": "Casablanca",
+        "director": "Michael Curtiz",
+        "year": 1942,
+        "duration": 102,
+        "poster": "https://m.media-amazon.com/images/I/41v5c3JjN5L._AC_SY450_.jpg",
+        "rate": 8.5,
+        "synopsis": "A cynical American expatriate struggles to decide whether or not he should help his former lover and her fugitive husband escape French Morocco."
+    },
+    {
+        "title": "Citizen Kane",
+        "director": "Orson Welles",
+        "year": 1941,
+        "duration": 119,
+        "poster": "https://m.media-amazon.com/images/I/91oyKkH9xRL._AC_SY679_.jpg",
+        "rate": 8.3,
+        "synopsis": "Following the death of a publishing tycoon, news reporters scramble to discover the meaning of his final utterance."
+    },
+    {
+        "title": "El bueno, el malo y el feo",
+        "director": "Sergio Leone",
+        "year": 1966,
+        "duration": 178,
+        "rate": 8.8,
+        "poster": "https://m.media-amazon.com/images/I/41ln3NSBKhL._AC_SY679_.jpg",
+        "synopsis": "Un cazarrecompensas, un forajido y un desertor del ejército buscan un tesoro escondido durante la Guerra Civil estadounidense."
+    },
+    {
+        "title": "El caballero oscuro",
+        "director": "Christopher Nolan",
+        "year": 2008,
+        "duration": 152,
+        "rate": 9,
+        "poster": "https://m.media-amazon.com/images/I/71Kk9lbGSdL._AC_SY679_.jpg",
+        "synopsis": "Cuando surge la amenaza conocida como el Joker de su pasado misterioso, siembra el caos y la destrucción en la gente de Gotham, el Caballero Oscuro debe aceptar uno de los mayores desafíos psicológicos y físicos de su capacidad para luchar contra la injusticia."
+    },
+    {
+        "title": "El club de la pelea",
+        "director": "David Fincher",
+        "year": 1999,
+        "duration": 139,
+        "rate": 8.8,
+        "poster": "https://m.media-amazon.com/images/I/51v5ZpFyaFL._AC_SY679_.jpg",
+        "synopsis": "Un hombre común aburrido con su vida encuentra un insólito escape cuando conoce a un vendedor de jabón carismático y un anarquista excéntrico que planea destruir la civilización."
+    },
+    {
+        "title": "El club de los cinco",
+        "director": "John Hughes",
+        "year": 1985,
+        "duration": 97,
+        "rate": 7.8,
+        "poster": "https://m.media-amazon.com/images/I/71eZ2tFAJTL._AC_SY679_.jpg",
+        "synopsis": "Cinco estudiantes de secundaria, todos con personalidades diferentes, se encuentran detenidos en la escuela un sábado por diversos motivos y deben enfrentarse a sí mismos y a sus compañeros de detención."
+    },
+    {
+        "title": "El diablo viste de Prada",
+        "director": "David Frankel",
+        "year": 2006,
+        "duration": 109,
+        "rate": 6.9,
+        "poster": "https://m.media-amazon.com/images/I/51VjOc4Z-GL._AC_SY679_.jpg",
+        "synopsis": "Una joven recién graduada de la universidad consigue un trabajo como asistente de Miranda Priestly, la editora en jefe de una famosa revista de moda, y descubre que su jefa es exigente y despiadada."
+    },
+    {
+        "title": "El gran hotel Budapest",
+        "director": "Wes Anderson",
+        "year": 2014,
+        "duration": 99,
+        "rate": 8.1,
+        "poster": "https://m.media-amazon.com/images/I/71UCbNClSRL._AC_SY679_.jpg",
+        "synopsis": "En la década de 1930, un conserje de un famoso hotel europeo se hace amigo de un joven empleado y se embarcan juntos en una serie de aventuras surrealistas e hilarantes."
+    },
+    {
+        "title": "El gran Lebowski",
+        "director": "Joel Coen, Ethan Coen",
+        "year": 1998,
+        "duration": 117,
+        "rate": 8.1,
+        "poster": "https://m.media-amazon.com/images/I/51S9UbVY6BL._AC_SY679_.jpg",
+        "synopsis": "El inadaptado desempleado Jeffrey 'The Dude' Lebowski se ve envuelto en una serie de eventos que lo llevan a una intrincada trama de secuestro, fraude y engyear."
+    },
+    {
+        "title": "El laberinto del fauno",
+        "director": "Guillermo del Toro",
+        "year": 2006,
+        "duration": 118,
+        "rate": 8.2,
+        "poster": "https://m.media-amazon.com/images/I/81d4e6QY6BL._AC_SY679_.jpg",
+        "synopsis": "En la España fascista de 1944, la joven Ofelia descubre un laberinto secreto que la lleva a un mundo mágico lleno de peligros y maravillas."
+    },
+    {
+        "title": "El padrino",
+        "director": "Francis Ford Coppola",
+        "year": 1972,
+        "duration": 175,
+        "rate": 9.2,
+        "poster": "https://m.media-amazon.com/images/I/41--GIDhtPL._AC_SY450_.jpg",
+        "synopsis": "El patriarca envejecido de una dinastía del crimen organizado transfiere el control de su imperio clandestino a su hijo renuente."
+    },
+    {
+        "title": "El padrino: Parte II",
+        "director": "Francis Ford Coppola",
+        "year": 1974,
+        "duration": 202,
+        "rate": 9,
+        "poster": "https://m.media-amazon.com/images/I/41J6H2Y54FL._AC_.jpg",
+        "synopsis": "Se retrata la vida temprana y la carrera de Vito Corleone en la Nueva York de los years 20, mientras que su hijo, Michael, amplía y aprieta su control sobre el sindicato del crimen familiar."
+    },
+    {
+        "title": "El pianista",
+        "director": "Roman Polanski",
+        "year": 2002,
+        "duration": 150,
+        "rate": 8.5,
+        "poster": "https://m.media-amazon.com/images/I/71n4oeWXNlL._AC_SY679_.jpg",
+        "synopsis": "Durante la Segunda Guerra Mundial, un pianista judío polaco escapa de la destrucción de Varsovia y se enfrenta a la lucha por la supervivencia en el Gueto de Varsovia."
+    },
+    {
+        "title": "El señor de los anillos: El retorno del Rey",
+        "director": "Peter Jackson",
+        "year": 2003,
+        "duration": 201,
+        "rate": 8.9,
+        "poster": "https://m.media-amazon.com/images/I/51Zz6qfHrzL._AC_.jpg",
+        "synopsis": "Gandalf y Aragorn lideran el Mundo de los Hombres contra el ejército de Sauron para desviar su atención de Frodo y Sam mientras se acercan al Monte del Destino con el Anillo Único."
+    },
+    {
+        "title": "El señor de los anillos: La comunidad del anillo",
+        "director": "Peter Jackson",
+        "year": 2001,
+        "duration": 178,
+        "rate": 8.8,
+        "poster": "https://m.media-amazon.com/images/I/51EUTN1XQZL._AC_.jpg",
+        "synopsis": "Un hobbit manso de la Comarca y ocho compañeros se embarcan en un viaje para destruir el poderoso Anillo Único y salvar la Tierra Media del Señor Oscuro Sauron."
+    },
+    {
+        "title": "El show de Truman",
+        "director": "Peter Weir",
+        "year": 1998,
+        "duration": 103,
+        "rate": 8.1,
+        "poster": "https://m.media-amazon.com/images/I/81wY5Ym7V2L._AC_SY679_.jpg",
+        "synopsis": "Un hombre descubre que su vida es un programa de televisión elaboradamente dirigido y controlado por una corporación, y decide escapar de su existencia artificial."
+    },
+    {
+        "title": "El silencio de los corderos",
+        "director": "Jonathan Demme",
+        "year": 1991,
+        "duration": 118,
+        "rate": 8.6,
+        "poster": "https://m.media-amazon.com/images/I/81e+vXWAQtL._AC_SY679_.jpg",
+        "synopsis": "Un joven agente del FBI se alía con un psiquiatra para rastrear a un asesino en serie que se hace llamar 'Buffalo Bill'."
+    },
+    {
+        "title": "El viaje de Chihiro",
+        "director": "Hayao Miyazaki",
+        "year": 2001,
+        "duration": 125,
+        "rate": 8.6,
+        "poster": "https://m.media-amazon.com/images/I/81jqVvqaIgL._AC_SY679_.jpg",
+        "synopsis": "Durante su mudanza a un nuevo vecindario, una niña de 10 years entra en el mundo de los espíritus después de que sus padres son convertidos en cerdos por una bruja."
+    },
+    {
+        "title": "En busca de la felicidad",
+        "director": "Gabriele Muccino",
+        "year": 2006,
+        "duration": 117,
+        "rate": 8,
+        "poster": "https://m.media-amazon.com/images/I/61j1LRgNmRL._AC_SY679_.jpg",
+        "synopsis": "Basada en la verdadera historia de Chris Gardner, un vendedor que lucha por construir una vida mejor para él y su hijo mientras enfrenta dificultades económicas y personales."
+    },
+    {
+        "title": "Fight Club",
+        "director": "David Fincher",
+        "year": 1999,
+        "duration": 139,
+        "poster": "https://m.media-amazon.com/images/I/71Z9wXpndwL._AC_SY679_.jpg",
+        "rate": 8.8,
+        "synopsis": "An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more."
+    },
+    {
+        "title": "Forrest Gump",
+        "director": "Robert Zemeckis",
+        "year": 1994,
+        "duration": 142,
+        "rate": 8.8,
+        "poster": "https://m.media-amazon.com/images/I/51JdC4fc+qL._AC_.jpg",
+        "synopsis": "Forrest Gump, un hombre con un coeficiente intelectual bajo, participa en algunos de los eventos más significativos del siglo XX."
+    },
+    {
+        "title": "Gladiador",
+        "director": "Ridley Scott",
+        "year": 2000,
+        "duration": 155,
+        "rate": 8.5,
+        "poster": "https://m.media-amazon.com/images/I/61F7wf6aGcL._AC_SY679_.jpg",
+        "synopsis": "Un exgeneral romano es traicionado y su familia asesinada por un príncipe corrupto. Él regresa como gladiador para vengarse y se convierte en un héroe de la gente."
+    },
+    {
+        "title": "Gone with the Wind",
+        "director": "Victor Fleming",
+        "year": 1939,
+        "duration": 238,
+        "poster": "https://m.media-amazon.com/images/I/91D2mH01-RL._AC_SY679_.jpg",
+        "rate": 8.1,
+        "synopsis": "A manipulative woman and a roguish man conduct a turbulent romance during the American Civil War and Reconstruction periods."
+    },
+    {
+        "title": "La lista de Schindler",
+        "director": "Steven Spielberg",
+        "year": 1993,
+        "duration": 195,
+        "rate": 8.9,
+        "poster": "https://m.media-amazon.com/images/I/81pW8MjzJfL._AC_SY679_.jpg",
+        "synopsis": "En Polonia ocupada por los alemanes durante la Segunda Guerra Mundial, el industrial Oskar Schindler gradualmente se preocupa por su fuerza laboral judía después de presenciar su persecución por los nazis."
+    },
+    {
+        "title": "La vida es bella",
+        "director": "Roberto Benigni",
+        "year": 1997,
+        "duration": 116,
+        "rate": 8.6,
+        "poster": "https://m.media-amazon.com/images/I/51RtxYWYibL._AC_SY679_.jpg",
+        "synopsis": "En un intento por mantener a su hijo a salvo durante el Holocausto, un padre inventa un juego que implica puntos para ganar un tanque."
+    },
+    {
+        "title": "Lawrence of Arabia",
+        "director": "David Lean",
+        "year": 1962,
+        "duration": 228,
+        "poster": "https://m.media-amazon.com/images/I/81UBTLD-RkL._AC_SY679_.jpg",
+        "rate": 8.3,
+        "synopsis": "The story of T.E. Lawrence, the English officer who successfully united and led the diverse, often w"
+    },
+    {
+        "title": "Matrix",
+        "director": "Lana Wachowski, Lilly Wachowski",
+        "year": 1999,
+        "duration": 136,
+        "rate": 8.7,
+        "poster": "https://m.media-amazon.com/images/I/51vpnbX7TcL._AC_SY679_.jpg",
+        "synopsis": "Un pirata informático descubre la verdadera naturaleza de la realidad y su papel en la guerra contra sus controladores."
+    },
+    {
+        "title": "One Flew Over the Cuckoo's Nest",
+        "director": "Milos Forman",
+        "year": 1975,
+        "duration": 133,
+        "poster": "https://m.media-amazon.com/images/I/51Qu5VYwLpL._AC_.jpg",
+        "rate": 8.7,
+        "synopsis": "A criminal pleads insanity and is admitted to a mental institution, where he rebels against the oppressive nurse and rallies up the scared patients."
+    },
+    {
+        "title": "Parasite",
+        "director": "Bong Joon Ho",
+        "year": 2019,
+        "duration": 132,
+        "rate": 8.6,
+        "poster": "https://m.media-amazon.com/images/I/91lMJL9o0cL._AC_SY679_.jpg",
+        "synopsis": "Toda la familia de Ki-taek está desempleada, viviendo en un sótano húmedo y sombrío. Una serie de circunstancias inesperadas los lleva a hacerse cargo de la lujosa casa de los Park."
+    },
+    {
+        "title": "Pulp Fiction",
+        "director": "Quentin Tarantino",
+        "year": 1994,
+        "duration": 154,
+        "rate": 8.9,
+        "poster": "https://m.media-amazon.com/images/I/71CJow0aXbL._AC_SY679_.jpg",
+        "synopsis": "Varios relatos entrelazados sobre crímenes y violencia en Los Ángeles."
+    },
+    {
+        "title": "Raging Bull",
+        "director": "Martin Scorsese",
+        "year": 1980,
+        "duration": 129,
+        "poster": "https://m.media-amazon.com/images/I/51Iq1YsmvRL._AC_.jpg",
+        "rate": 8.1,
+        "synopsis": "The life of boxer Jake LaMotta, whose violence and temper that led him to the top in the ring destroyed his life outside of it."
+    },
+    {
+        "title": "Schindler's List",
+        "director": "Steven Spielberg",
+        "year": 1993,
+        "duration": 195,
+        "poster": "https://m.media-amazon.com/images/I/81pW8MjzJfL._AC_SY679_.jpg",
+        "rate": 9,
+        "synopsis": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis."
+    },
+    {
+        "title": "The Dark Knight",
+        "director": "Christopher Nolan",
+        "year": 2008,
+        "duration": 152,
+        "poster": "https://m.media-amazon.com/images/I/71Kk9lbGSdL._AC_SY679_.jpg",
+        "rate": 9,
+        "synopsis": "When the menace known as The Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham. The Dark Knight must accept one of the greatest psychological and physical tests of his ability to fight injustice."
+    },
+    {
+        "title": "The Godfather",
+        "director": "Francis Ford Coppola",
+        "year": 1972,
+        "duration": 175,
+        "poster": "https://m.media-amazon.com/images/I/41--GIDhtPL._AC_SY450_.jpg",
+        "rate": 9.2,
+        "synopsis": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son."
+    },
+    {
+        "title": "The Godfather: Part II",
+        "director": "Francis Ford Coppola",
+        "year": 1974,
+        "duration": 202,
+        "poster": "https://m.media-amazon.com/images/I/41J6H2Y54FL._AC_.jpg",
+        "rate": 9,
+        "synopsis": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate."
+    },
+    {
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "director": "Peter Jackson",
+        "year": 2001,
+        "duration": 178,
+        "poster": "https://m.media-amazon.com/images/I/51EUTN1XQZL._AC_.jpg",
+        "rate": 8.8,
+        "synopsis": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron."
+    },
+    {
+        "title": "The Lord of the Rings: The Return of the King",
+        "director": "Peter Jackson",
+        "year": 2003,
+        "duration": 201,
+        "poster": "https://m.media-amazon.com/images/I/51Zz6qfHrzL._AC_.jpg",
+        "rate": 8.9,
+        "synopsis": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring."
+    },
+    {
+        "title": "The Shawshank Redemption",
+        "director": "Frank Darabont",
+        "year": 1994,
+        "duration": 142,
+        "poster": "https://m.media-amazon.com/images/I/519NBNHX5BL._AC_.jpg",
+        "rate": 9.3,
+        "synopsis": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency."
+    },
+    {
+        "title": "The Wizard of Oz",
+        "director": "Victor Fleming",
+        "year": 1939,
+        "duration": 102,
+        "poster": "https://m.media-amazon.com/images/I/91uQ4xXHt7L._AC_SY679_.jpg",
+        "rate": 8.1,
+        "synopsis": "Dorothy Gale is swept away from a farm in Kansas to a magical land of Oz in a tornado and embarks on a quest with her new friends to see the Wizard who can help her return home."
+    }
+]
