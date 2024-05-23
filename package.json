@@ -5,10 +5,10 @@
   "main": "app.js",
   "type": "module",
   "scripts": {
+    "dev:git": "git status&& git add .&& git status&& git commit -m \"Actualización_05\"&& git push https://github.com/SuGueVar30/rest_api_deploy.git",
     "start:mysql": "node --watch ./src/server.mysql.js",
     "start:mongo": "node --watch ./src/server.mongo.js",
     "start:local": "node --watch ./src/server.local.js",
-    "dev:git": "git status&& git add .&& git status&& git commit -m \"Actualización_04\"&& git push https://github.com/SuGueVar30/rest_api_deploy.git",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
